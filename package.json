@@ -37,7 +37,7 @@
   "dependencies": {
     "@xpring-eng/logger": "^1.0.0",
     "prom-client": "^12.0.0",
-    "typescript": "^3.9.5"
+    "typescript": "^3.9.10"
   },
   "devDependencies": {
     "@arkweid/lefthook": "^0.7.2",
